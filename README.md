@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KawayCheung
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning R Studio and SQL.
